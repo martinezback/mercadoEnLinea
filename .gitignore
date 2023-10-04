@@ -33,6 +33,6 @@ build/
 .vscode/
 
 ### JWT ###
-src/main/java/com/softlond/mercadoEnLinea/Auht/
-src/main/java/com/softlond/mercadoEnLinea/security/
-src/main/java/com/softlond/mercadoEnLinea/user/
+Auht/
+security/
+user/
