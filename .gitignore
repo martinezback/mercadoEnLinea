@@ -33,6 +33,6 @@ build/
 .vscode/
 
 ### JWT ###
-Auht/
+Auth/
 security/
 user/
